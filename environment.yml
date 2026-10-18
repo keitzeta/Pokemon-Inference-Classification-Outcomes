@@ -11,3 +11,4 @@ dependencies:
   - pandas
   - networkx
   - matplotlib
+  - scikit-learn>=1.4
